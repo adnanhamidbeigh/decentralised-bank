@@ -1,0 +1,3 @@
+TestBank:testBankDeposit() (gas: 40519)
+TestBank:testBankWithdraw() (gas: 34901)
+TestBank:testBankWithdrawWithExcessAmount() (gas: 12947)
